@@ -1,8 +1,2 @@
-"# Cse311" 
-"# Cse311" 
-"# Cse311" 
-"# cse311-Newspaper" 
-"# cse-311" 
-"# cse-311" 
-"# cse-311" 
-"# cse-311" 
+
+An Online Newspaper Management System streamlines the process of creating, managing, and publishing digital content for newspapers. It offers tools for content categorization, user role management, scheduling, and real-time updates, ensuring efficient collaboration between editors, writers, and designers. The system also provides analytics for readership trends, enabling data-driven decisions to enhance audience engagement.
